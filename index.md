@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-| Primeiro cabeçalho  |  Segundo cabeçalho  |
+|   ![texto](imagem)  | ![texto2](imagem)    |
 | ------------------- | ------------------- |
 
 You can use the [editor on GitHub](https://github.com/CarlosVitr/Cwiki/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
