@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-|   [Home](https://carlosvitr.github.io/Cwiki/)  | [About-Me](https://github.com/CarlosVitr/Cwiki/blob/gh-pages/about.md  )
+|   [Home](https://carlosvitr.github.io/Cwiki/)  | [About-Me](https://github.com/CarlosVitr/Cwiki/blob/gh-pages/about.md#about-carlos)
 |------------------|----------------
 
 
