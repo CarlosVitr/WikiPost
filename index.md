@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-|   ![texto](imagem)  | ![texto2](imagem)    |
+|   ![Home](https://carlosvitr.github.io/Cwiki/)  | ![About-Me](imagem)    |
 | ------------------- | ------------------- |
 
 You can use the [editor on GitHub](https://github.com/CarlosVitr/Cwiki/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
