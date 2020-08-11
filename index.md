@@ -1,5 +1,5 @@
 # WikiPost
 
-
-Home | About | My Wiki
+:--------- | :------: | -------:
+[Home](https://carlosvitr.github.io/WikiPost/) | About | My Wiki
 :--------- | :------: | -------:
