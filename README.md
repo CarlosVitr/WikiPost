@@ -40,8 +40,10 @@
   <img src="https://img.shields.io/badge/html/css%20-191970.svg?&style=for-the-badge&logo=html&logoColor=white"/>
   <img src="https://img.shields.io/badge/angular%20-ff0000.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/ruby_on_rails%20-9b383b.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
+  <img src="https://img.shields.io/badge/bootstrap%20-993399.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
    
 </p>
+
 ---
 
 ## 😇 My Github Stats:
