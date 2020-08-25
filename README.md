@@ -8,7 +8,7 @@
 <details>
 <summary>Table of list</summary>
 
- [ minha lista em markdown ](https://github.com/carlosvitr/wikipost/)
+[ WikiPost](https://github.com/carlosvitr/wikipost/)
  
 </details>
 <ul>
@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/gatsby%20-purple.svg?&style=for-the-badge&logo=gatsby&logoColor=white"/>
 </p>
 
 ---
