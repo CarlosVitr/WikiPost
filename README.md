@@ -9,7 +9,8 @@
 <summary>Table of list</summary>
 
 [ WikiPost](https://github.com/carlosvitr/wikipost/)
- 
+<li><a href="https://github.com/carlosvitr/wikiPost/"><b>WikiPost</b></a></li>
+
 </details>
 <ul>
   <li>🧑‍💻 I'm a Javascript Developer from <b>São Paulo, <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/> Brasil</b>;</li>
@@ -35,8 +36,12 @@
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/gatsby%20-purple.svg?&style=for-the-badge&logo=gatsby&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ruby%20-9b111e.svg?&style=for-the-badge&logo=ruby&logoColor=white"/>
+  <img src="https://img.shields.io/badge/html/css%20-191970.svg?&style=for-the-badge&logo=html&logoColor=white"/>
+  <img src="https://img.shields.io/badge/angular%20-ff0000.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ruby_on_rails%20-9b383b.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
+   
 </p>
-
 ---
 
 ## 😇 My Github Stats:
