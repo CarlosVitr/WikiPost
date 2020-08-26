@@ -1,4 +1,4 @@
 
-| [Home](https://carlosvitr.github.io/WikiPost/) |  [About](github/ISSUE_TEMPLATE/)  | My Wiki |
+| [Home](https://carlosvitr.github.io/WikiPost/) |  [About](about.md/)  | [My Wiki](mywiki.md/) |
  
 # Hello I am Carlos 
