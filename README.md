@@ -44,7 +44,7 @@
    
 </p>
 
-<a href="http://carlosvitor.ml/"><img src="https://img.shields.io/static/v1?label=License&message=Bsd&color=03bb85&style=for-the-badge&logo=Bsd"/></a>
+<a href="https://github.com/CarlosVitr/ODS-16/blob/master/LICENSE"><img src="https://img.shields.io/static/v1?label=License&message=Bsd&color=03bb85&style=for-the-badge&logo=Freebsd"/></a>
 
 
 ---
