@@ -46,7 +46,7 @@
 
 <a href="https://github.com/CarlosVitr/ODS-16/blob/master/LICENSE"><img src="https://img.shields.io/static/v1?label=License&message=Bsd&color=03bb85&style=for-the-badge&logo=Freebsd"/></a>
 
-<a href=""><img src="https://img.shields.io/static/v1?label=License&message=CreativeCommons&color=03bb85&style=for-the-badge&logo=CC"/></a>
+<a href="https://github.com/CarlosVitr/ODS-16/blob/master/LICENSE"><img src="https://img.shields.io/static/v1?label=License&message=CreativeCommons&color=03bb85&style=for-the-badge&logo=CC0"/></a>
 
 ---
 
