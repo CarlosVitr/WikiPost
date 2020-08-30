@@ -47,6 +47,8 @@
   <img src="https://img.shields.io/badge/mac%20-c0c0c0.svg?&style=for-the-badge&logo=apple&logoColor=white"/>
   <img src="https://img.shields.io/badge/perl%20-c0c0c0.svg?&style=for-the-badge&logo=perl&logoColor=white"/>
   <img src="https://img.shields.io/badge/php%20-4169e1.svg?&style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/wp%20-808080.svg?&style=for-the-badge&logo=WordPress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/drupal%20-add8e6.svg?&style=for-the-badge&logo=drupal&logoColor=white"/>
   
 </p>
 
