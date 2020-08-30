@@ -5,12 +5,7 @@
  > (about/)
  2. essa imagem
 [![](https://github.com/CarlosVitr/Cwiki/blob/gh-pages/Screenshot_20200810-202740_YouTube.jpg) ]
-<details>
-<summary>Table of list</summary>
 
-[ WikiPost](https://github.com/carlosvitr/wikipost/)
-<li><a href="https://github.com/carlosvitr/wikiPost/"><b>WikiPost</b></a></li>
-</details>
 <ul>
   <li>🧑‍💻 I'm a Javascript Developer from <b>São Paulo, <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/> Brasil</b>;</li>
   <li>🎙 Also a Live Coder at <a href="https://twitch.tv/carlosvitr"><img src="https://image.flaticon.com/icons/svg/2111/2111668.svg" width="13"/> <b>twitch.tv/carlosvitr</b></a>;</li>
@@ -72,3 +67,12 @@
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=csorlandi&show_icons=true&theme=algolia&line_height=27">
 </p>
+<details>
+<summary> Toque para expandir </summary>
+
+[ WikiPost](https://github.com/carlosvitr/wikipost/)
+<br>
+<a href="https://github.com/carlosvitr/wikiPost/"><b>WikiPost</b></a>
+<br>
+<img src="https://img.shields.io/badge/html%20-orange.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+</details>
