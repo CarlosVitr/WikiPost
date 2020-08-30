@@ -50,6 +50,7 @@
   <img src="https://img.shields.io/badge/wp%20-808080.svg?&style=for-the-badge&logo=WordPress&logoColor=white"/>
   <img src="https://img.shields.io/badge/drupal%20-add8e6.svg?&style=for-the-badge&logo=drupal&logoColor=white"/>
   <img src="https://img.shields.io/badge/nextjs%20-black.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/electron%20-002147.svg?&style=for-the-badge&logo=electron&logoColor=white"/>
  
 </p>
 
