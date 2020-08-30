@@ -49,7 +49,8 @@
   <img src="https://img.shields.io/badge/php%20-4169e1.svg?&style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/wp%20-808080.svg?&style=for-the-badge&logo=WordPress&logoColor=white"/>
   <img src="https://img.shields.io/badge/drupal%20-add8e6.svg?&style=for-the-badge&logo=drupal&logoColor=white"/>
-  
+  <img src="https://img.shields.io/badge/nextjs%20-black.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
+ 
 </p>
 
 <a href="https://github.com/CarlosVitr/ODS-16/blob/master/LICENSE"><img src="https://img.shields.io/static/v1?label=License&message=Bsd&color=red&style=for-the-badge&logo=Freebsd"/></a>
