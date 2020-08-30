@@ -23,6 +23,7 @@
 > “If you're offered a seat on a rocket ship, don't ask what seat! Just get on.”
 ― Sheryl Sandberg
 
+>"Olá"- Carlos
 ---
 
 ## 🛠 Tech Stack
@@ -59,7 +60,7 @@
 <a href="https://github.com/CarlosVitr/ODS-16/blob/master/LICENSE"><img src="https://img.shields.io/static/v1?label=License&message=CreativeCommons&color=03bb85&style=for-the-badge&logo=CC0"/></a>
 
 ```
-> <a href="https://github.com/CarlosVitr/ODS-16/blob/master/LICENSE"><img src="https://img.shields.io/static/v1?label=License&message=CreativeCommons&color=03bb85&style=for-the-badge&logo=CC0"/></a>
+<a href="https://github.com/CarlosVitr/ODS-16/blob/master/LICENSE"><img src="https://img.shields.io/static/v1?label=License&message=CreativeCommons&color=03bb85&style=for-the-badge&logo=CC0"/></a>
 ```
 ---
 
