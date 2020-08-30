@@ -42,13 +42,17 @@
   <img src="https://img.shields.io/badge/ruby_on_rails%20-9b383b.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
   <img src="https://img.shields.io/badge/bootstrap%20-993399.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/css%20-191970.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/vuejs%20-03bb85.svg?&style=for-the-badge&logo=vue.js&logoColor=white"/>
   
 </p>
 
-<a href="https://github.com/CarlosVitr/ODS-16/blob/master/LICENSE"><img src="https://img.shields.io/static/v1?label=License&message=Bsd&color=03bb85&style=for-the-badge&logo=Freebsd"/></a>
+<a href="https://github.com/CarlosVitr/ODS-16/blob/master/LICENSE"><img src="https://img.shields.io/static/v1?label=License&message=Bsd&color=red&style=for-the-badge&logo=Freebsd"/></a>
 
 <a href="https://github.com/CarlosVitr/ODS-16/blob/master/LICENSE"><img src="https://img.shields.io/static/v1?label=License&message=CreativeCommons&color=03bb85&style=for-the-badge&logo=CC0"/></a>
 
+```
+> <a href="https://github.com/CarlosVitr/ODS-16/blob/master/LICENSE"><img src="https://img.shields.io/static/v1?label=License&message=CreativeCommons&color=03bb85&style=for-the-badge&logo=CC0"/></a>
+```
 ---
 
 ## 😇 My Github Stats:
