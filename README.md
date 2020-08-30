@@ -10,7 +10,6 @@
 
 [ WikiPost](https://github.com/carlosvitr/wikipost/)
 <li><a href="https://github.com/carlosvitr/wikiPost/"><b>WikiPost</b></a></li>
-
 </details>
 <ul>
   <li>🧑‍💻 I'm a Javascript Developer from <b>São Paulo, <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/> Brasil</b>;</li>
@@ -37,12 +36,17 @@
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/gatsby%20-purple.svg?&style=for-the-badge&logo=gatsby&logoColor=white"/>
   <img src="https://img.shields.io/badge/ruby%20-9b111e.svg?&style=for-the-badge&logo=ruby&logoColor=white"/>
-  <img src="https://img.shields.io/badge/html%20-191970.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/html%20-orange.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/angular%20-ff0000.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/ruby_on_rails%20-9b383b.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
   <img src="https://img.shields.io/badge/bootstrap%20-993399.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/css%20-191970.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/vuejs%20-03bb85.svg?&style=for-the-badge&logo=vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/windows%20-blue.svg?&style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/linux%20-black.svg?&style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mac%20-c0c0c0.svg?&style=for-the-badge&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/perl%20-c0c0c0.svg?&style=for-the-badge&logo=perl&logoColor=white"/>
+  <img src="https://img.shields.io/badge/php%20-4169e1.svg?&style=for-the-badge&logo=php&logoColor=white"/>
   
 </p>
 
