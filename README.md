@@ -54,7 +54,7 @@
 
 [![Outlook Badge](https://img.shields.io/badge/-outlook-blue?style=flat-square&logo=microsoft-outlook&logoColor=white&mailto:)](mailto:)
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=gmail&logoColor=white&mailto:)](mailto:)
-[![Carlos Badge](https://img.shields.io/badge/-arlos-black?style=flat-square&logo=C&logoColor=white&link="https://carlosvitor.ml")](https://carlosvitor.ml)
+[![Carlos Badge](https://img.shields.io/badge/-arlos-black?style=flat-square&logo=C&logoColor=white&link="https://carlosvitor.ml/")](https://carlosvitor.ml/)
 
 
 
