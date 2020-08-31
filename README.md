@@ -52,7 +52,7 @@
  
   <img src="https://img.shields.io/badge/outlook%20-blue.svg?&style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
 
-[![Outlook Badge](https://img.shields.io/badge/-outlook-blue?style=flat-square&logo=microsoft-outlook&logoColor=white&mailto:contatos.carlosv@gmail.com)](mailto:contatos.carlosv@gmail.com)
+[![Outlook Badge](https://img.shields.io/badge/-outlook-blue?style=flat-square&logo=microsoft-outlook&logoColor=white&mailto:carlosvitorcampos@outlook.com)](mailto:carlosvitorcampos@outlook.com)
 
 
 
