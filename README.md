@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/gatsby%20-purple.svg?&style=for-the-badge&logo=gatsby&logoColor=white"/>
   <img src="https://img.shields.io/badge/ruby%20-9b111e.svg?&style=for-the-badge&logo=ruby&logoColor=white"/>
-  <img src="https://img.shields.io/badge/html%20-orange.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/html5%20-orange.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/angular%20-ff0000.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/ruby_on_rails%20-9b383b.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
   <img src="https://img.shields.io/badge/bootstrap%20-993399.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
