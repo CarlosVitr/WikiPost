@@ -52,6 +52,10 @@
  
   <img src="https://img.shields.io/badge/outlook%20-blue.svg?&style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
 
+[![Outlook Badge](https://img.shields.io/badge/-outlook-blue?style=flat-square&logo=microsoft-outlook&logoColor=white&link=https://www.linkedin.com/in/felipefialho)](https://www.linkedin.com/in/felipefialho)
+
+
+
 </p>
 
 <a href="https://support.github.com/contact/feedback?category=profile&subject=Profile+README"><img src="https://img.shields.io/badge/feedback%20-006400.svg?&style=for-the-badge&logo=likeit&logoColor=black"/></a>
