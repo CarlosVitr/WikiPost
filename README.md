@@ -52,7 +52,7 @@
   <img src="https://img.shields.io/badge/instagram%20-e30b5c.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
   <img src="https://img.shields.io/badge/telegram%20-00bfff.svg?&style=for-the-badge&logo=telegram&logoColor=white"/>
   
-  <img src="https://img.shields.io/badge/feedback%20-006400.svg?&style=for-the-badge&logo=codevoi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/feedback%20-006400.svg?&style=for-the-badge&logo=codecov&logoColor=black"/>
  
   <img src="https://img.shields.io/badge/outlook%20-blue.svg?&style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
 
