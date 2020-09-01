@@ -47,6 +47,10 @@
   <img src="https://img.shields.io/badge/drupal%20-add8e6.svg?&style=for-the-badge&logo=drupal&logoColor=white"/>
   <img src="https://img.shields.io/badge/nextjs%20-black.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/electron%20-002147.svg?&style=for-the-badge&logo=electron&logoColor=white"/>
+  <img src="https://img.shields.io/badge/facebook%20-blue.svg?&style=for-the-badge&logo=facebook&logoColor=white"/>
+  <img src="https://img.shields.io/badge/whatsapp%20-23323330.svg?&style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/instagram%20-e30b5c.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/telegram%20-00bfff.svg?&style=for-the-badge&logo=telegram&logoColor=white"/>
 
   <img src="https://img.shields.io/badge/feedback%20-006400.svg?&style=for-the-badge&logo=likeit&logoColor=black"/>
  
