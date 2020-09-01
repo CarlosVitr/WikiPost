@@ -64,7 +64,8 @@
 
 </p>
 
-<a href="https://support.github.com/contact/feedback?category=profile&subject=Profile+README"><img src="https://img.shields.io/badge/feedback%20-006400.svg?&style=for-the-badge&logo=likeit&logoColor=black"/></a>
+<a href="https://support.github.com/contact/feedback?category=profile&subject=Profile+README"><img src="https://img.shields.io/badge/feedback%20-006400.svg?&style=for-the-badge&logo=codecov&logoColor=black"/>
+</a>
 
 <a href="https://github.com/CarlosVitr/ODS-16/blob/master/LICENSE"><img src="https://img.shields.io/static/v1?label=License&message=Bsd&color=red&style=for-the-badge&logo=Freebsd"/></a>
 
