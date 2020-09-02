@@ -51,6 +51,9 @@
   <img src="https://img.shields.io/badge/whatsapp%20-23323330.svg?&style=for-the-badge&logo=whatsapp&logoColor=white"/>
   <img src="https://img.shields.io/badge/instagram%20-e30b5c.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
   <img src="https://img.shields.io/badge/telegram%20-00bfff.svg?&style=for-the-badge&logo=telegram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/powerpoint%20-ce4e2d.svg?&style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/>
+  <img src="https://img.shields.io/badge/word%20-1338be.svg?&style=for-the-badge&logo=microsoft-word&logoColor=white"/>
+  <img src="https://img.shields.io/badge/excel%20-028a0f.svg?&style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
   
   <img src="https://img.shields.io/badge/feedback%20-006400.svg?&style=for-the-badge&logo=codecov&logoColor=black"/>
  
