@@ -43,7 +43,7 @@
   <img src="https://img.shields.io/badge/mac%20-c0c0c0.svg?&style=for-the-badge&logo=apple&logoColor=white"/>
   <img src="https://img.shields.io/badge/perl%20-c0c0c0.svg?&style=for-the-badge&logo=perl&logoColor=white"/>
   <img src="https://img.shields.io/badge/php%20-4169e1.svg?&style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/wp%20-808080.svg?&style=for-the-badge&logo=WordPress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/wordpress%20-808080.svg?&style=for-the-badge&logo=wordpress&logoColor=white"/>
   <img src="https://img.shields.io/badge/drupal%20-add8e6.svg?&style=for-the-badge&logo=drupal&logoColor=white"/>
   <img src="https://img.shields.io/badge/nextjs%20-black.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/electron%20-002147.svg?&style=for-the-badge&logo=electron&logoColor=white"/>
@@ -55,7 +55,10 @@
   <img src="https://img.shields.io/badge/word%20-1338be.svg?&style=for-the-badge&logo=microsoft-word&logoColor=white"/>
   <img src="https://img.shields.io/badge/excel%20-028a0f.svg?&style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
   <img src="https://img.shields.io/badge/ecmascript-e25822.svg?&style=for-the-badge&logo=ecmascript6&logoColor=white"/>
-  
+  <img src="https://img.shields.io/badge/kotlin%20-248eff.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/android-a4c639.svg?&style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/iphone_os%20-808080.svg?&style=for-the-badge&logo=ios&logoColor=white"/>
+ 
   <img src="https://img.shields.io/badge/feedback%20-006400.svg?&style=for-the-badge&logo=codecov&logoColor=black"/>
  
   <img src="https://img.shields.io/badge/outlook%20-blue.svg?&style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
