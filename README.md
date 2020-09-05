@@ -58,7 +58,9 @@
   <img src="https://img.shields.io/badge/kotlin%20-248eff.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/android-a4c639.svg?&style=for-the-badge&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/iphone_os%20-808080.svg?&style=for-the-badge&logo=ios&logoColor=white"/>
- 
+  <img src="https://img.shields.io/badge/magento%20-80400b.svg?&style=for-the-badge&logo=magento&logoColor=white"/>
+  <img src="https://img.shields.io/badge/delphi%20-e3242b.svg?&style=for-the-badge&logo=embarcadero&logoColor=white"/>
+  
   <img src="https://img.shields.io/badge/feedback%20-006400.svg?&style=for-the-badge&logo=codecov&logoColor=black"/>
  
   <img src="https://img.shields.io/badge/outlook%20-blue.svg?&style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
