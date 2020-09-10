@@ -69,8 +69,13 @@
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=gmail&logoColor=white&mailto:)](mailto:)
 [![Carlos Badge](https://img.shields.io/badge/-arlos-black?style=flat-square&logo=C&logoColor=white&link="http://carlosvitor.ml/")](http://carlosvitor.ml/)
 
-
 <a href="https://github.com/carlosvitr"><img align="left" alt="Carlos Github" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/></a>
+
+<a href="https://linkedin.com/"><img align="left" alt="Carlos Linkedin" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a>
+
+<a href="https://twitter.com/Clsvitor"><img align="left" alt="Carlos Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/></a>
+
+<a href="mailto:contatos.carlosv@gmail.com"><img align="left" alt="Carlos Gmail" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/></a>
 
 </p>
 
