@@ -70,6 +70,7 @@
 [![Carlos Badge](https://img.shields.io/badge/-arlos-black?style=flat-square&logo=C&logoColor=white&link="http://carlosvitor.ml/")](http://carlosvitor.ml/)
 
 
+<a href="https://github.com/carlosvitr"><img align="left" alt="Carlos Github" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/></a>
 
 </p>
 
