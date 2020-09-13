@@ -70,7 +70,8 @@
 [![Outlook Badge](https://img.shields.io/badge/-outlook-blue?style=flat-square&logo=microsoft-outlook&logoColor=white&mailto:)](mailto:)
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=gmail&logoColor=white&mailto:)](mailto:)
 [![Carlos Badge](https://img.shields.io/badge/-arlos-black?style=flat-square&logo=C&logoColor=white&link="http://carlosvitor.ml/")](http://carlosvitor.ml/)
-
+<a href="http://carlosvitor.ml/"><img src="https://img.shields.io/badge/made_by_carlos-022d36.svg?style=for-the-badge&logo=dev.to&logoColor=white"></a>
+  
 <a href="https://github.com/carlosvitr"><img align="left" alt="Carlos Github" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/></a>
 
 <a href="https://linkedin.com/"><img align="left" alt="Carlos Linkedin" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a>
@@ -119,3 +120,21 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="20" height="20"/>
 
 </p>
+<h1>Titulo ou Arte do Projeto</h1> 
+
+<p align="center">
+  <img src="https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT"/>
+  <img src="https://img.shields.io/static/v1?label=Netlify&message=deploy&color=blue&style=for-the-badge&logo=netlify"/>
+  <img src="http://img.shields.io/static/v1?label=License&message=MIT&color=green&style=for-the-badge"/>
+  <img src="http://img.shields.io/static/v1?label=Ruby&message=2.6.3&color=red&style=for-the-badge&logo=ruby"/>
+  <img src="http://img.shields.io/static/v1?label=Ruby%20On%20Rails%20&message=6.0.2.2&color=red&style=for-the-badge&logo=ruby"/>
+  <img src="http://img.shields.io/static/v1?label=TESTES&message=%3E100&color=GREEN&style=for-the-badge"/>
+   <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge"/>
+   <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
+</p>
+
+## Licença 
+
+The [MIT License]() (MIT)
+
+Copyright :copyright: Ano - Titulo do Projeto
