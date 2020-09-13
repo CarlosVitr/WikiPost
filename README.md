@@ -80,6 +80,7 @@
 
 <a href="mailto:contatos.carlosv@gmail.com"><img align="left" alt="Carlos Gmail" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/></a>
 
+
 <p align="left">
   <a href="https://twitter.com/intent/user?screen_name=ClsVitor" target="_blank">
     <img
