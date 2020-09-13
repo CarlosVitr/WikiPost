@@ -80,7 +80,15 @@
 
 <a href="mailto:contatos.carlosv@gmail.com"><img align="left" alt="Carlos Gmail" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/></a>
 
+<p align="left">
+  <a href="https://twitter.com/intent/user?screen_name=ClsVitor" target="_blank">
+    <img
+      src="https://img.shields.io/twitter/follow/Clsvitor?label=Follow%20Carlos%20Vitor&style=social"
+      alt="Follow @ClsVitor"
+    />
+  </a>
 </p>
+
 
 <a href="https://support.github.com/contact/feedback?category=profile&subject=Profile+README"><img src="https://img.shields.io/badge/feedback%20-006400.svg?&style=for-the-badge&logo=codecov&logoColor=black"/>
 </a>
@@ -137,4 +145,4 @@
 
 The [MIT License]() (MIT)
 
-Copyright :copyright: Ano - Titulo do Projeto
+Copyright :copyright: 2020 - Wikipost
