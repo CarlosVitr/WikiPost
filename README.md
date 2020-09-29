@@ -21,6 +21,8 @@
 >"Olá"- Carlos
 ---
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=carlosvitr&repo=wikipost&show_icons=true&theme=algolia&line_height=27")](https://github.com/carlosvitr/wikipost)
+
 ## 🛠 Tech Stack
 
 <p>
