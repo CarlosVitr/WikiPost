@@ -155,6 +155,8 @@
    <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
 </p>
 
+<img align="right" width="320" height="320" src="https://media.tenor.com/images/bb77ed0e7ed7b02ed7200bbf99745095/tenor.gif">
+
 ## Licença 
 
 The [MIT License]() (MIT)
