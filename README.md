@@ -121,8 +121,9 @@
 [![Visits Badge](https://badges.pufler.dev/visits/csorlandi/csorlandi?style=for-the-badge)](https://github.com/csorlandi/csorlandi)
 ![Repos Badge](https://badges.pufler.dev/repos/csorlandi?style=for-the-badge)
 
-<p align = "center">
+<p align = "left">
   <img src = "https://github-readme-stats.vercel.app/api?username=csorlandi&show_icons=true&theme=algolia&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api?username=carlosvitr&show_icons=true&theme=algolia&line_height=27">
 </p>
 <details>
 <summary> Toque para expandir </summary>
