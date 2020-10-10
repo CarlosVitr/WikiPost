@@ -163,7 +163,7 @@
 
  <img align="right" src = "https://github-readme-stats.vercel.app/api?username=carlosvitr&show_icons=true&theme=algolia&line_height=27">
 
-<details>
+</details>
 
  <img align="right" width="320" height="320" src="https://media.tenor.com/images/bb77ed0e7ed7b02ed7200bbf99745095/tenor.gif">
 
