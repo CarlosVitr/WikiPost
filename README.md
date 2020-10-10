@@ -124,7 +124,7 @@
 <p align = "left">
   <img src = "https://github-readme-stats.vercel.app/api?username=csorlandi&show_icons=true&theme=algolia&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api?username=carlosvitr&show_icons=true&theme=algolia&line_height=27">
-</p>
+  </p>
 <details>
 <summary> Toque para expandir </summary>
 
@@ -156,10 +156,9 @@
    <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
 </p>
 
-<img align="right" width="320" height="320" src="https://media.tenor.com/images/bb77ed0e7ed7b02ed7200bbf99745095/tenor.gif">
+<p>
+ <img align="left" src = "https://github-readme-stats.vercel.app/api?username=csorlandi&show_icons=true&theme=algolia&line_height=27">
 
-## Licença 
-
-The [MIT License]() (MIT)
-
-Copyright :copyright: 2020 - Wikipost
+ <img align="right" src = "https://github-readme-stats.vercel.app/api?username=carlosvitr&show_icons=true&theme=algolia&line_height=27">
+</p>
+ 
