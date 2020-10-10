@@ -159,7 +159,8 @@
 <details>
 
 <summary> Expandir </summary>
- <img align="left" src = "https://github-readme-stats.vercel.app/api?username=csorlandi&show_icons=true&theme=algolia&line_height=27">
+
+![Most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosvitr&theme=chartreuse-dark&layout=compact)
 
  <img align="right" src = "https://github-readme-stats.vercel.app/api?username=carlosvitr&show_icons=true&theme=algolia&line_height=27">
 
