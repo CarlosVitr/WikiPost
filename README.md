@@ -1,4 +1,4 @@
-# WikiPost
+# WikiPost <img align="right" width="320" height="320" src="https://media.tenor.com/images/bb77ed0e7ed7b02ed7200bbf99745095/tenor.gif">
        
 
 :rage1: 
@@ -173,6 +173,5 @@ The [MIT License]() (MIT)
 
 Copyright :copyright: 2020 - Wikipost
 
- <img align="right" width="320" height="320" src="https://media.tenor.com/images/bb77ed0e7ed7b02ed7200bbf99745095/tenor.gif">
-
+ 
 
