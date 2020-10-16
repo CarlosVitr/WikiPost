@@ -19,7 +19,7 @@
   <li>🤝 Open for collaborations in Javascript Stack.</li>
 </ul>
 
-[![My website](https://dyn-qrcode.vercel.app/api?url=http://carlosvitor.ml/)](http://carlosvitor.ml/)
+[![My website](https://dyn-qrcode.vercel.app/api?url=https://github.com/CarlosVitr/WikiPost/)](https://github.com/CarlosVitr/WikiPost)
 
 > “If you're offered a seat on a rocket ship, don't ask what seat! Just get on.”
 ― Sheryl Sandberg
