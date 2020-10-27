@@ -1,5 +1,6 @@
 # WikiPost <img align="right" width="320" height="320" src="https://media.tenor.com/images/bb77ed0e7ed7b02ed7200bbf99745095/tenor.gif">
        
+<a href="https://simpleicons.org/"><img with="30" height="30" src="https://github.com/CarlosVitr/WikiPost/blob/gh-pages/twitter.svg"></a> 
 
 :rage1: 
 
