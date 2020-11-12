@@ -73,9 +73,11 @@
   <img src="https://img.shields.io/badge/photoshop%20-0000ff.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>
   <img src="https://img.shields.io/badge/python%20-054f77.svg?&style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/mysql%20-3b83db.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/docusaurus%20-03bb85.svg?&style=for-the-badge&logo=docusaurus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/docusaurus%20-03bb85.svg?&style=for-the-badge&logo=facebook-docusaurus&logoColor=white"/>
   <img src="https://img.shields.io/badge/elixir%20-purple.svg?&style=for-the-badge&logo=elixir&logoColor=white"/>
   <img src="https://img.shields.io/badge/rust%20-000.svg?&style=for-the-badge&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ionic%20-blue.svg?&style=for-the-badge&logo=ionic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/redux%20-purple.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
   
   <img src="https://img.shields.io/badge/feedback%20-006400.svg?&style=for-the-badge&logo=codecov&logoColor=black"/>
  
