@@ -105,6 +105,17 @@
 <a href="mailto:contatos.carlosv@gmail.com"><img align="left" alt="Carlos Gmail" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/></a>
 
 
+---
+
+# contatos 
+
+<img src="https://img.shields.io/badge/LinkdIn%20-0e76a8.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Twitter%20-00acee.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail%20-c14438.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
+  
+
+---
+
 <p align="left">
   <a href="https://twitter.com/intent/user?screen_name=ClsVitor" target="_blank">
     <img
