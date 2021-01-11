@@ -112,7 +112,11 @@
   <img src="https://img.shields.io/badge/LinkdIn%20-0e76a8.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Twitter%20-00acee.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gmail%20-c14438.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
-</p>  
+</p>
+  
+<a href="https://in.linkedin.com/in/CarlosVitor" target="_blank">
+    <img align="left" alt="Carlos| Linkedin" width="24px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Linkedin.svg" />
+  </a>
 
 ---
 
