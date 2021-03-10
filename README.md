@@ -5,6 +5,11 @@
 :rage1: 
 
 ---
+### Smaller subtitle
+
+This is a paragraph `with` ~style~ *italic* _italic_ **bold** __bold__
+
+---
 
 # Listas
 - [x] lista cortada
