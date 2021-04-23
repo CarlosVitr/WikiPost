@@ -116,6 +116,11 @@ This is a paragraph `with` ~style~ *italic* _italic_ **bold** __bold__
 <a href="mailto:contatos.carlosv@gmail.com"><img align="left" alt="Carlos Gmail" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/></a>
 
 
+[<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25"/>][learning_now_anchor]&nbsp;
+
+
+[<img src="https://img.shields.io/badge/React.js-282C34?logo=react.js&logoColor=339933" alt="React.js logo" title="React.js" height="25" />][learning_now_anchor]
+
 ---
 
 # contatos 
@@ -189,7 +194,7 @@ This is a paragraph `with` ~style~ *italic* _italic_ **bold** __bold__
   <img src="http://img.shields.io/static/v1?label=Ruby&message=2.6.3&color=red&style=for-the-badge&logo=ruby"/>
   <img src="http://img.shields.io/static/v1?label=Ruby%20On%20Rails%20&message=6.0.2.2&color=red&style=for-the-badge&logo=ruby"/>
   <img src="http://img.shields.io/static/v1?label=TESTES&message=%3E100&color=GREEN&style=for-the-badge"/>
-   <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge"/>
+   <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=red&style=for-the-badge"/>
    <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
 </p>
 
