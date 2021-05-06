@@ -11,11 +11,16 @@ This is a paragraph `with` ~style~ *italic* _italic_ **bold** __bold__
 
 ---
 
+###### [ lista ](#listas) | [ LISTA ](#LISTA) | [ Introdução ](#introdução)
+
+---
+
 # Listas
 - [x] lista cortada
 - [ ] listando
 
 ---
+
 # LISTA
 
 - [Introdução](#introdução)
