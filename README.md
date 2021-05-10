@@ -2,6 +2,17 @@
        
 <a href="https://simpleicons.org/"><img with="30" height="30" src="https://github.com/CarlosVitr/WikiPost/blob/gh-pages/twitter.svg"></a> 
 
+---
+
+<a 
+    data-amt="10" 
+    data-since="10/05/21" 
+    href="https://github.com/carlosvitr">
+    <img src="https://avatars3.githubusercontent.com/u/43506171?v=120" width="60px">
+</a>
+
+---
+
 :rage1: 
 
 ---
