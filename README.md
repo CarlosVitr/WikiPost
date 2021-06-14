@@ -4,6 +4,15 @@
 
 ---
 
+```diff
++ import cm, {html, css} from 'castmq'
+- import cm from 'castmq'
+- import styled from '@castmq/styled'
+- import css from '@castmq/react'
+```
+
+---
+
 <a 
     data-amt="10" 
     data-since="10/05/21" 
